@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 from sklearn.metrics import classification_report, confusion_matrix
 
 # Specify the directory where the MIT-BIH Arrhythmia Database files are located
-mitdb_dir = 'D:/Arrhythmia/mit-bih-arrhythmia-database-1.0.0/'
+mitdb_dir = '/dataset/'
 
 # List of record names to include in the dataset
 record_names = ['100', '101', '102', '103', '104', '105', '106', '107', 

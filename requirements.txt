@@ -1,0 +1,5 @@
+wfdb
+numpy
+scikit-learn
+tensorflow
+matplotlib
